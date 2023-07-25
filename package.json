@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "jest": {
+    "clearMocks": true,
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
     }

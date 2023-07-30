@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1690690246889" clover="3.2.0">
-  <project timestamp="1690690246889" name="All files">
-    <metrics statements="40" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="14" coveredmethods="3" elements="60" coveredelements="8" complexity="0" loc="40" ncloc="40" packages="1" files="6" classes="6"/>
+<coverage generated="1690692072569" clover="3.2.0">
+  <project timestamp="1690692072569" name="All files">
+    <metrics statements="49" coveredstatements="5" conditionals="8" coveredconditionals="1" methods="21" coveredmethods="4" elements="78" coveredelements="10" complexity="0" loc="49" ncloc="49" packages="1" files="8" classes="8"/>
     <file name="async.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\async.js">
       <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
       <line num="1" count="0" type="stmt"/>
@@ -15,10 +15,10 @@
       <line num="15" count="0" type="stmt"/>
     </file>
     <file name="database.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\database.js">
-      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
       <line num="8" count="0" type="stmt"/>
     </file>
     <file name="exception.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\exception.js">
@@ -29,9 +29,9 @@
       <line num="7" count="0" type="stmt"/>
     </file>
     <file name="product_service.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\product_service.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
     </file>
     <file name="sayHello.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\sayHello.js">
       <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -59,6 +59,21 @@
       <line num="25" count="0" type="stmt"/>
       <line num="26" count="0" type="stmt"/>
       <line num="29" count="0" type="stmt"/>
+    </file>
+    <file name="user-repository.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\user-repository.js">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+    </file>
+    <file name="user-service.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\user-service.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <line num="5" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

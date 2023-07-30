@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1690688421019" clover="3.2.0">
-  <project timestamp="1690688421019" name="All files">
-    <metrics statements="40" coveredstatements="4" conditionals="6" coveredconditionals="0" methods="14" coveredmethods="2" elements="60" coveredelements="6" complexity="0" loc="40" ncloc="40" packages="1" files="6" classes="6"/>
+<coverage generated="1690690246889" clover="3.2.0">
+  <project timestamp="1690690246889" name="All files">
+    <metrics statements="40" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="14" coveredmethods="3" elements="60" coveredelements="8" complexity="0" loc="40" ncloc="40" packages="1" files="6" classes="6"/>
     <file name="async.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\async.js">
       <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
       <line num="1" count="0" type="stmt"/>
@@ -15,9 +15,9 @@
       <line num="15" count="0" type="stmt"/>
     </file>
     <file name="database.js" path="E:\CODING\belajar_nodeJs\belajar-nodejs-unit-test\src\database.js">
-      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="3" count="0" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
       <line num="8" count="0" type="stmt"/>
     </file>

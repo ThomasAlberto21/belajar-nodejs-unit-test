@@ -16,6 +16,4 @@ export const getBalance = async (name, from) => {
     name: name,
     balance: balance,
   };
-
-  console.log(balance)
 };

@@ -17,3 +17,10 @@ export const getBalance = async (name, from) => {
     balance: balance,
   };
 };
+
+
+function sayHello(name){
+  return `hello ${name}`
+}
+
+sayHello('Thomas')

@@ -19,8 +19,3 @@ export const getBalance = async (name, from) => {
 };
 
 
-function sayHello(name){
-  return `hello ${name}`
-}
-
-sayHello('Thomas')
